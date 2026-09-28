@@ -1,0 +1,839 @@
+[
+    {
+        "post_id": 49865343,
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "category": "technology",
+        "score": 65,
+        "num_comments": 63,
+        "author": "yu3zhou4",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49863864,
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "category": "technology",
+        "score": 373,
+        "num_comments": 310,
+        "author": "papergirl",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49856885,
+        "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+        "category": "technology",
+        "score": 5,
+        "num_comments": 0,
+        "author": "theanonymousone",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49832768,
+        "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+        "category": "technology",
+        "score": 186,
+        "num_comments": 26,
+        "author": "momentmaker",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49839567,
+        "title": "Evolving programming languages in the AI era",
+        "category": "technology",
+        "score": 117,
+        "num_comments": 74,
+        "author": "pjm331",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49836579,
+        "title": "How I changed teaching after AI managed to do all my homework assignments",
+        "category": "technology",
+        "score": 237,
+        "num_comments": 212,
+        "author": "azhenley",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49854875,
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "category": "technology",
+        "score": 262,
+        "num_comments": 292,
+        "author": "signa11",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49864642,
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "category": "technology",
+        "score": 278,
+        "num_comments": 196,
+        "author": "rbanffy",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49851883,
+        "title": "Generate fonts where every LLM token is the same width",
+        "category": "technology",
+        "score": 76,
+        "num_comments": 15,
+        "author": "z-mach9",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49854416,
+        "title": "Floci: Locally emulating any cloud service",
+        "category": "technology",
+        "score": 183,
+        "num_comments": 43,
+        "author": "theanonymousone",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49849985,
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "category": "technology",
+        "score": 726,
+        "num_comments": 453,
+        "author": "specked-citrus",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49852143,
+        "title": "How one Twitch chat message became code execution on a streamer’s PC",
+        "category": "technology",
+        "score": 60,
+        "num_comments": 29,
+        "author": "tau255",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49847430,
+        "title": "LP Voting and Investor Consent for AIFs",
+        "category": "technology",
+        "score": 4,
+        "num_comments": 0,
+        "author": "koolhead17",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49853175,
+        "title": "A single function Jev-like wrapper for LLMs, including vision models",
+        "category": "technology",
+        "score": 145,
+        "num_comments": 44,
+        "author": "allanrbo",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49862892,
+        "title": "Introducing Casita: A content-addressed store for source code and build artifact",
+        "category": "technology",
+        "score": 6,
+        "num_comments": 0,
+        "author": "domenkozar",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49864790,
+        "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+        "category": "technology",
+        "score": 13,
+        "num_comments": 1,
+        "author": "ml-student",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49856665,
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
+        "category": "technology",
+        "score": 122,
+        "num_comments": 181,
+        "author": "Betelbuddy",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49857572,
+        "title": "Automattic has a new board after failed attempt to put CEO on leave",
+        "category": "technology",
+        "score": 141,
+        "num_comments": 174,
+        "author": "ilamont",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49845977,
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "category": "technology",
+        "score": 492,
+        "num_comments": 871,
+        "author": "cramer4next",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49844896,
+        "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+        "category": "technology",
+        "score": 151,
+        "num_comments": 144,
+        "author": "sbulaev",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49842409,
+        "title": "I wrote a ray tracer in Brainfuck",
+        "category": "technology",
+        "score": 88,
+        "num_comments": 21,
+        "author": "epestr",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49823490,
+        "title": "A new world airport and its baggage",
+        "category": "technology",
+        "score": 72,
+        "num_comments": 5,
+        "author": "firloop",
+        "collected_at": "2026-09-27T19:10:47.115770"
+    },
+    {
+        "post_id": 49836302,
+        "title": "Probing picosecond depairing currents in type-II superconductors",
+        "category": "technology",
+        "score": 10,
+        "num_comments": 5,
+        "author": "PaulHoule",
+        "collected_at": "2026-09-27T19:10:47.123957"
+    },
+    {
+        "post_id": 49835531,
+        "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "category": "technology",
+        "score": 170,
+        "num_comments": 43,
+        "author": "benbreen",
+        "collected_at": "2026-09-27T19:10:47.123957"
+    },
+    {
+        "post_id": 49860279,
+        "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
+        "category": "technology",
+        "score": 10,
+        "num_comments": 6,
+        "author": "AIfanboy",
+        "collected_at": "2026-09-27T19:10:47.123957"
+    },
+    {
+        "post_id": 49832768,
+        "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+        "category": "worldnews",
+        "score": 186,
+        "num_comments": 26,
+        "author": "momentmaker",
+        "collected_at": "2026-09-27T19:10:49.129122"
+    },
+    {
+        "post_id": 49864642,
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "category": "worldnews",
+        "score": 278,
+        "num_comments": 196,
+        "author": "rbanffy",
+        "collected_at": "2026-09-27T19:10:49.129122"
+    },
+    {
+        "post_id": 49864790,
+        "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+        "category": "worldnews",
+        "score": 13,
+        "num_comments": 1,
+        "author": "ml-student",
+        "collected_at": "2026-09-27T19:10:49.129122"
+    },
+    {
+        "post_id": 49856665,
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
+        "category": "worldnews",
+        "score": 122,
+        "num_comments": 181,
+        "author": "Betelbuddy",
+        "collected_at": "2026-09-27T19:10:49.129122"
+    },
+    {
+        "post_id": 49833867,
+        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "category": "worldnews",
+        "score": 412,
+        "num_comments": 141,
+        "author": "sidharthkmenon",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49860011,
+        "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
+        "category": "worldnews",
+        "score": 23,
+        "num_comments": 0,
+        "author": "trimbo",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49841563,
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "category": "worldnews",
+        "score": 1002,
+        "num_comments": 577,
+        "author": "fjfaase",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49829960,
+        "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+        "category": "worldnews",
+        "score": 321,
+        "num_comments": 327,
+        "author": "nonfamous",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49811429,
+        "title": "Data-only attacks are easier than you think (2024)",
+        "category": "worldnews",
+        "score": 102,
+        "num_comments": 44,
+        "author": "segfaultbuserr",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49864667,
+        "title": "U.S., Russia stripped human oversight from global AI weapons pact",
+        "category": "worldnews",
+        "score": 8,
+        "num_comments": 4,
+        "author": "reconnecting",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49832406,
+        "title": "GitHub has not removed malicious imitation software after 3 weeks",
+        "category": "worldnews",
+        "score": 275,
+        "num_comments": 119,
+        "author": "hermitcrab",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49835913,
+        "title": "August 27 TCRF DDoS Attack Postmortem",
+        "category": "worldnews",
+        "score": 34,
+        "num_comments": 14,
+        "author": "panic",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49828409,
+        "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+        "category": "worldnews",
+        "score": 181,
+        "num_comments": 181,
+        "author": "giuliomagnifico",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49811065,
+        "title": "Transit rewards",
+        "category": "worldnews",
+        "score": 258,
+        "num_comments": 345,
+        "author": "raybb",
+        "collected_at": "2026-09-27T19:10:49.129896"
+    },
+    {
+        "post_id": 49851355,
+        "title": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+        "category": "worldnews",
+        "score": 62,
+        "num_comments": 14,
+        "author": "jbegley",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49847926,
+        "title": "Towards GPU Type Inference",
+        "category": "worldnews",
+        "score": 8,
+        "num_comments": 0,
+        "author": "winwang",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49808109,
+        "title": "The UV index is not the warm sensation of sunlight on bare skin",
+        "category": "worldnews",
+        "score": 99,
+        "num_comments": 79,
+        "author": "evakhoury",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49855278,
+        "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 4,
+        "author": "pluc",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49836378,
+        "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+        "category": "worldnews",
+        "score": 18,
+        "num_comments": 0,
+        "author": "MBCook",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49826285,
+        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+        "category": "worldnews",
+        "score": 11,
+        "num_comments": 2,
+        "author": "Ozymandias-9",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49826381,
+        "title": "Ask HN: How do you deal with cyber attacks once you scale?",
+        "category": "worldnews",
+        "score": 5,
+        "num_comments": 2,
+        "author": "cehgmaster",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49810083,
+        "title": "I'm sick of Claudisms, & what will happen next in AI-boosted software dev",
+        "category": "worldnews",
+        "score": 19,
+        "num_comments": 6,
+        "author": "rizsyed1",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49845052,
+        "title": "Starcraft Brood War self-play RL bot beats strong human [video]",
+        "category": "worldnews",
+        "score": 12,
+        "num_comments": 2,
+        "author": "snippyhollow",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49845865,
+        "title": "The Age of Personalized Hardware",
+        "category": "worldnews",
+        "score": 9,
+        "num_comments": 0,
+        "author": "arbayi",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49856034,
+        "title": "CEO of Mistral: AI is software. It can be controlled",
+        "category": "worldnews",
+        "score": 96,
+        "num_comments": 164,
+        "author": "thibaut_barrere",
+        "collected_at": "2026-09-27T19:10:49.130904"
+    },
+    {
+        "post_id": 49849820,
+        "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+        "category": "sports",
+        "score": 62,
+        "num_comments": 43,
+        "author": "msephton",
+        "collected_at": "2026-09-27T19:10:51.134117"
+    },
+    {
+        "post_id": 49844642,
+        "title": "What happens when you analyze your favorite college football team like the CIA?",
+        "category": "sports",
+        "score": 63,
+        "num_comments": 35,
+        "author": "adam",
+        "collected_at": "2026-09-27T19:10:51.134117"
+    },
+    {
+        "post_id": 49857528,
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "category": "sports",
+        "score": 74,
+        "num_comments": 53,
+        "author": "brumar",
+        "collected_at": "2026-09-27T19:10:51.134117"
+    },
+    {
+        "post_id": 49836590,
+        "title": "The Board Game of the Alpha Nerds (2014)",
+        "category": "sports",
+        "score": 121,
+        "num_comments": 63,
+        "author": "neonate",
+        "collected_at": "2026-09-27T19:10:51.134117"
+    },
+    {
+        "post_id": 49857651,
+        "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+        "category": "sports",
+        "score": 119,
+        "num_comments": 121,
+        "author": "Brajeshwar",
+        "collected_at": "2026-09-27T19:10:51.134117"
+    },
+    {
+        "post_id": 49849406,
+        "title": "Time Measurement in Game Programming",
+        "category": "sports",
+        "score": 13,
+        "num_comments": 0,
+        "author": "ibobev",
+        "collected_at": "2026-09-27T19:10:51.136038"
+    },
+    {
+        "post_id": 49829387,
+        "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+        "category": "sports",
+        "score": 142,
+        "num_comments": 52,
+        "author": "ArielSimon",
+        "collected_at": "2026-09-27T19:10:51.136038"
+    },
+    {
+        "post_id": 49847157,
+        "title": "Show HN: I made a WWI dogfight game that runs in the browser",
+        "category": "sports",
+        "score": 7,
+        "num_comments": 7,
+        "author": "fullstackwife",
+        "collected_at": "2026-09-27T19:10:51.136038"
+    },
+    {
+        "post_id": 49836378,
+        "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+        "category": "sports",
+        "score": 18,
+        "num_comments": 0,
+        "author": "MBCook",
+        "collected_at": "2026-09-27T19:10:51.136038"
+    },
+    {
+        "post_id": 49839438,
+        "title": "Biology might not be quantum, but its math is quantumlike",
+        "category": "science",
+        "score": 89,
+        "num_comments": 31,
+        "author": "pseudolus",
+        "collected_at": "2026-09-27T19:10:53.144468"
+    },
+    {
+        "post_id": 49830606,
+        "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+        "category": "science",
+        "score": 232,
+        "num_comments": 530,
+        "author": "xnx",
+        "collected_at": "2026-09-27T19:10:53.145670"
+    },
+    {
+        "post_id": 49853918,
+        "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+        "category": "science",
+        "score": 46,
+        "num_comments": 33,
+        "author": "pseudolus",
+        "collected_at": "2026-09-27T19:10:53.145670"
+    },
+    {
+        "post_id": 49835866,
+        "title": "Ask HN: Any nerds out there who've read a lot of research papers?",
+        "category": "science",
+        "score": 28,
+        "num_comments": 27,
+        "author": "shriy-singh",
+        "collected_at": "2026-09-27T19:10:53.145670"
+    },
+    {
+        "post_id": 49824969,
+        "title": "FLAWED's Flaws and What This Means for Industry Research",
+        "category": "science",
+        "score": 24,
+        "num_comments": 4,
+        "author": "tob_scott_a",
+        "collected_at": "2026-09-27T19:10:53.145670"
+    },
+    {
+        "post_id": 49834760,
+        "title": "How SpaceX's Raptor engine works, one problem at a time",
+        "category": "science",
+        "score": 3,
+        "num_comments": 0,
+        "author": "felixbecker",
+        "collected_at": "2026-09-27T19:10:53.145670"
+    },
+    {
+        "post_id": 49850734,
+        "title": "Prima: NASA will try to build a billion-dollar space telescope in record time",
+        "category": "science",
+        "score": 5,
+        "num_comments": 0,
+        "author": "rbanffy",
+        "collected_at": "2026-09-27T19:10:53.145670"
+    },
+    {
+        "post_id": 49827376,
+        "title": "Nuros – AI study tools from notes, PDFs, videos, and links",
+        "category": "science",
+        "score": 8,
+        "num_comments": 0,
+        "author": "AntoineValton",
+        "collected_at": "2026-09-27T19:10:53.147676"
+    },
+    {
+        "post_id": 49847975,
+        "title": "Sham scientific societies are misleading star researchers",
+        "category": "science",
+        "score": 6,
+        "num_comments": 0,
+        "author": "sbulaev",
+        "collected_at": "2026-09-27T19:10:53.147676"
+    },
+    {
+        "post_id": 49858513,
+        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+        "category": "entertainment",
+        "score": 337,
+        "num_comments": 90,
+        "author": "jpwalsh234",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49832768,
+        "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+        "category": "entertainment",
+        "score": 186,
+        "num_comments": 26,
+        "author": "momentmaker",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49864642,
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "category": "entertainment",
+        "score": 278,
+        "num_comments": 196,
+        "author": "rbanffy",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49845172,
+        "title": "Show HN: Jev Plays Pokémon Red",
+        "category": "entertainment",
+        "score": 263,
+        "num_comments": 116,
+        "author": "pancomplex",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49849986,
+        "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+        "category": "entertainment",
+        "score": 35,
+        "num_comments": 10,
+        "author": "kdautaj",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49852302,
+        "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+        "category": "entertainment",
+        "score": 408,
+        "num_comments": 105,
+        "author": "pseudolus",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49849820,
+        "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+        "category": "entertainment",
+        "score": 62,
+        "num_comments": 43,
+        "author": "msephton",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49844497,
+        "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+        "category": "entertainment",
+        "score": 84,
+        "num_comments": 27,
+        "author": "andrearitossa",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49858409,
+        "title": "Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",
+        "category": "entertainment",
+        "score": 17,
+        "num_comments": 2,
+        "author": "jsLavaGoat",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49833867,
+        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "category": "entertainment",
+        "score": 412,
+        "num_comments": 141,
+        "author": "sidharthkmenon",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49857528,
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "category": "entertainment",
+        "score": 74,
+        "num_comments": 53,
+        "author": "brumar",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49836590,
+        "title": "The Board Game of the Alpha Nerds (2014)",
+        "category": "entertainment",
+        "score": 121,
+        "num_comments": 63,
+        "author": "neonate",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49856691,
+        "title": "Show HN: I checked 1M free proxies – 1 in 5 working ones injected scripts",
+        "category": "entertainment",
+        "score": 10,
+        "num_comments": 1,
+        "author": "taventix",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49827375,
+        "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+        "category": "entertainment",
+        "score": 89,
+        "num_comments": 30,
+        "author": "emurlin",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49821438,
+        "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+        "category": "entertainment",
+        "score": 51,
+        "num_comments": 12,
+        "author": "miguelrios",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49837006,
+        "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+        "category": "entertainment",
+        "score": 225,
+        "num_comments": 64,
+        "author": "hxii",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49804359,
+        "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
+        "category": "entertainment",
+        "score": 71,
+        "num_comments": 8,
+        "author": "91awebsi",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49823738,
+        "title": "Show HN: Make cursed fonts like Times New Bastard",
+        "category": "entertainment",
+        "score": 855,
+        "num_comments": 123,
+        "author": "MitPitt",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49849406,
+        "title": "Time Measurement in Game Programming",
+        "category": "entertainment",
+        "score": 13,
+        "num_comments": 0,
+        "author": "ibobev",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49842596,
+        "title": "Show HN: Agentic CUDA Kernel Optimizer",
+        "category": "entertainment",
+        "score": 37,
+        "num_comments": 11,
+        "author": "bertaye",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49823332,
+        "title": "Show HN: Jevgpt – reinventing the wheel with another wheel",
+        "category": "entertainment",
+        "score": 25,
+        "num_comments": 2,
+        "author": "kunggaochicken",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49801329,
+        "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+        "category": "entertainment",
+        "score": 192,
+        "num_comments": 63,
+        "author": "mixedbit",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49850553,
+        "title": "Show HN: Recurse – Develop and deploy specialist agents faster",
+        "category": "entertainment",
+        "score": 8,
+        "num_comments": 4,
+        "author": "ozankabak",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49862131,
+        "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
+        "category": "entertainment",
+        "score": 7,
+        "num_comments": 1,
+        "author": "bookofjoe",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    },
+    {
+        "post_id": 49800574,
+        "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+        "category": "entertainment",
+        "score": 149,
+        "num_comments": 39,
+        "author": "florianstandhar",
+        "collected_at": "2026-09-27T19:10:55.157586"
+    }
+]
